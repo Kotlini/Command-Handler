@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Command-Handler:jar">
+    <output-path>$PROJECT_DIR$/../Projets/Mineral-contest-1.8/server/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="Command-Handler.jar">
+        <element id="module-output" name="Command-Handler" />
+      </element>
+    </root>
+  </artifact>
+</component>
